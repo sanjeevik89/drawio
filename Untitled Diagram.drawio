@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T09:43:24.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9edqyFPGnG06DjcNQWEN" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T09:46:48.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zo5nvmL2UuRPAXyfdC3C" version="21.6.1" type="github">
   <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
-    <mxGraphModel dx="1434" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -18,7 +18,7 @@
           <mxGeometry x="1368" y="406" width="88" height="65" as="geometry" />
         </mxCell>
         <mxCell id="10b056a9c633e61c-30" value="EDOP Chatbot" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="80" y="40" width="1590" height="40" as="geometry" />
+          <mxGeometry x="82" y="100" width="1590" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2i1Whluo_Nb75jQpyrb8-1" value="MS Teams" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-10-128.png" vertex="1" parent="1">
           <mxGeometry x="1110" y="231" width="78" height="78" as="geometry" />
