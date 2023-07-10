@@ -1,20 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T09:42:59.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KafKkNlzsCisWmy9V6Ly" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T09:43:24.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9edqyFPGnG06DjcNQWEN" version="21.6.1" type="github">
   <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
     <mxGraphModel dx="1434" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="10b056a9c633e61c-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;jettySize=auto;orthogonalLoop=1;strokeWidth=2;startArrow=none;startFill=0;" parent="1" source="10b056a9c633e61c-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="382" y="635" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="10b056a9c633e61c-4" value="Message Endpoint" style="strokeWidth=2;dashed=0;align=center;fontSize=12;shape=rect;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#c0f5a9" parent="1" vertex="1">
-          <mxGeometry x="172" y="590" width="150" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="10b056a9c633e61c-5" value="" style="strokeWidth=1;dashed=0;align=center;fontSize=8;shape=rect;fillColor=#ffffff;strokeColor=#000000;" parent="10b056a9c633e61c-4" vertex="1">
-          <mxGeometry x="85" y="25" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="2i1Whluo_Nb75jQpyrb8-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="10b056a9c633e61c-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1412" y="331" as="targetPoint" />
